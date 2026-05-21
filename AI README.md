@@ -1,15 +1,8 @@
-# 🤖 Pipi AI (Jarvis của Pipo)
+# 🤖 Pipi AI
 
-Đây là trợ lý AI cá nhân của Pipo.
-
-## ✅ Tính năng:
-- AI chatbot
-- voice assistant
-- nhắc việc
-- quản lý task
-
-## 🚀 Tải về
-(Sẽ cập nhật file .exe sau)
+## 💻 Windows
+👉 sẽ tải tại:
+https://github.com/username/pipi-ai/releases
 
 ## 📱 iPhone
-(Sẽ cập nhật link sau)
+👉 (sẽ cập nhật link web)
